@@ -1,0 +1,5 @@
+numpy
+ipython[notebook]
+pandas
+requests
+networkx
